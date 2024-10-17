@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dakshina-dev
-- 👀 I’m interested in Web Developmeny
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on New Organisation to improve myself
 - 📫 How to reach me Mobile: +91- 9087782608
